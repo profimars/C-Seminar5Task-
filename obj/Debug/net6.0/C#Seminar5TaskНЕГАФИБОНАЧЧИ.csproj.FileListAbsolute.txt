@@ -1,0 +1,15 @@
+C:\Гикбрейнс\3. Си#\Семинары\20230312\C_SharpSeminar6\C#Seminar5TaskНЕГАФИБОНАЧЧИ\bin\Debug\net6.0\C#Seminar5TaskНЕГАФИБОНАЧЧИ.exe
+C:\Гикбрейнс\3. Си#\Семинары\20230312\C_SharpSeminar6\C#Seminar5TaskНЕГАФИБОНАЧЧИ\bin\Debug\net6.0\C#Seminar5TaskНЕГАФИБОНАЧЧИ.deps.json
+C:\Гикбрейнс\3. Си#\Семинары\20230312\C_SharpSeminar6\C#Seminar5TaskНЕГАФИБОНАЧЧИ\bin\Debug\net6.0\C#Seminar5TaskНЕГАФИБОНАЧЧИ.runtimeconfig.json
+C:\Гикбрейнс\3. Си#\Семинары\20230312\C_SharpSeminar6\C#Seminar5TaskНЕГАФИБОНАЧЧИ\bin\Debug\net6.0\C#Seminar5TaskНЕГАФИБОНАЧЧИ.dll
+C:\Гикбрейнс\3. Си#\Семинары\20230312\C_SharpSeminar6\C#Seminar5TaskНЕГАФИБОНАЧЧИ\bin\Debug\net6.0\C#Seminar5TaskНЕГАФИБОНАЧЧИ.pdb
+C:\Гикбрейнс\3. Си#\Семинары\20230312\C_SharpSeminar6\C#Seminar5TaskНЕГАФИБОНАЧЧИ\obj\Debug\net6.0\C#Seminar5TaskНЕГАФИБОНАЧЧИ.csproj.AssemblyReference.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230312\C_SharpSeminar6\C#Seminar5TaskНЕГАФИБОНАЧЧИ\obj\Debug\net6.0\C#Seminar5TaskНЕГАФИБОНАЧЧИ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Гикбрейнс\3. Си#\Семинары\20230312\C_SharpSeminar6\C#Seminar5TaskНЕГАФИБОНАЧЧИ\obj\Debug\net6.0\C#Seminar5TaskНЕГАФИБОНАЧЧИ.AssemblyInfoInputs.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230312\C_SharpSeminar6\C#Seminar5TaskНЕГАФИБОНАЧЧИ\obj\Debug\net6.0\C#Seminar5TaskНЕГАФИБОНАЧЧИ.AssemblyInfo.cs
+C:\Гикбрейнс\3. Си#\Семинары\20230312\C_SharpSeminar6\C#Seminar5TaskНЕГАФИБОНАЧЧИ\obj\Debug\net6.0\C#Seminar5TaskНЕГАФИБОНАЧЧИ.csproj.CoreCompileInputs.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230312\C_SharpSeminar6\C#Seminar5TaskНЕГАФИБОНАЧЧИ\obj\Debug\net6.0\C#Seminar5TaskНЕГАФИБОНАЧЧИ.dll
+C:\Гикбрейнс\3. Си#\Семинары\20230312\C_SharpSeminar6\C#Seminar5TaskНЕГАФИБОНАЧЧИ\obj\Debug\net6.0\refint\C#Seminar5TaskНЕГАФИБОНАЧЧИ.dll
+C:\Гикбрейнс\3. Си#\Семинары\20230312\C_SharpSeminar6\C#Seminar5TaskНЕГАФИБОНАЧЧИ\obj\Debug\net6.0\C#Seminar5TaskНЕГАФИБОНАЧЧИ.pdb
+C:\Гикбрейнс\3. Си#\Семинары\20230312\C_SharpSeminar6\C#Seminar5TaskНЕГАФИБОНАЧЧИ\obj\Debug\net6.0\C#Seminar5TaskНЕГАФИБОНАЧЧИ.genruntimeconfig.cache
+C:\Гикбрейнс\3. Си#\Семинары\20230312\C_SharpSeminar6\C#Seminar5TaskНЕГАФИБОНАЧЧИ\obj\Debug\net6.0\ref\C#Seminar5TaskНЕГАФИБОНАЧЧИ.dll
